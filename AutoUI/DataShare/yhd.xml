@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<node>
+    <login>
+        <username1>测Ab0</username1>
+        <password1>Ab90@*</password1>
+        <expect1>测ab0</expect1>
+
+
+        <username2>?</username2>
+        <password2>    </password2>
+        <expect2></expect2>
+
+    </login>
+    <login>
+
+    </login>
+
+</node>
